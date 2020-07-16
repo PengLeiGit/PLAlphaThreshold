@@ -1,0 +1,6 @@
+framework module PLAlphaThreshold {
+  umbrella header "PLAlphaThreshold-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_PLAlphaThreshold_Tests {
+  umbrella header "Pods-PLAlphaThreshold_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

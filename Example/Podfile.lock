@@ -1,0 +1,16 @@
+PODS:
+  - PLAlphaThreshold (0.1.0)
+
+DEPENDENCIES:
+  - PLAlphaThreshold (from `../`)
+
+EXTERNAL SOURCES:
+  PLAlphaThreshold:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PLAlphaThreshold: 352fe72c3471a2e64d7c8d9b838fbd71797be354
+
+PODFILE CHECKSUM: 84d02875b3902e6c658e0f7b2e8f1aed99634fc8
+
+COCOAPODS: 1.9.1

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PLAlphaThreshold_Example' do
+  pod 'PLAlphaThreshold', :path => '../'
+
+  target 'PLAlphaThreshold_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
