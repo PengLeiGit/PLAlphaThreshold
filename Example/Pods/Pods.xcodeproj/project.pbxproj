@@ -38,7 +38,7 @@
 
 /* Begin PBXFileReference section */
 		03B9855C1AB5A8B0F14BCE6CF7BFFAE0 /* Pods-PLAlphaThreshold_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-PLAlphaThreshold_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		072BA280F48E73989A2C0D88F07696F2 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		072BA280F48E73989A2C0D88F07696F2 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		11F930C5AA40DFE6FF2EA70843C876F2 /* PLAlphaThreshold-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "PLAlphaThreshold-Info.plist"; sourceTree = "<group>"; };
 		1459987D8ACA6DEA1A6E503E8E6FB70A /* PLAlphaThreshold-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "PLAlphaThreshold-prefix.pch"; sourceTree = "<group>"; };
 		1620918AED04BD42F5B41FAB1BA17B4B /* Pods-PLAlphaThreshold_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-PLAlphaThreshold_Example-dummy.m"; sourceTree = "<group>"; };
@@ -51,19 +51,19 @@
 		4A1F0C727906B601E416362A26C5990D /* Pods-PLAlphaThreshold_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-PLAlphaThreshold_Example-frameworks.sh"; sourceTree = "<group>"; };
 		51A6CFC8EE341A393324EED8EDBB153C /* PLAlphaThreshold-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "PLAlphaThreshold-dummy.m"; sourceTree = "<group>"; };
 		864B601593093EFF6EBB32A6CB657F28 /* Pods-PLAlphaThreshold_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-PLAlphaThreshold_Tests.modulemap"; sourceTree = "<group>"; };
-		876684A0D460878F450990556882CA95 /* PLAlphaThreshold.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = PLAlphaThreshold.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		8E1C1FBA9A8B0588977243F7D8FDE9D9 /* Pods_PLAlphaThreshold_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_PLAlphaThreshold_Example.framework; path = "Pods-PLAlphaThreshold_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		876684A0D460878F450990556882CA95 /* PLAlphaThreshold.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = PLAlphaThreshold.podspec; sourceTree = "<group>"; tabWidth = 2; };
+		8E1C1FBA9A8B0588977243F7D8FDE9D9 /* Pods_PLAlphaThreshold_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PLAlphaThreshold_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		92A92E179DF7B8E38C31A2B5C621036F /* Pods-PLAlphaThreshold_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-PLAlphaThreshold_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		B1BC0735BF995C4656D2AB77FFACEDE1 /* Pods-PLAlphaThreshold_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-PLAlphaThreshold_Example-Info.plist"; sourceTree = "<group>"; };
 		B3704EBA0072142BC7E256C133C17F42 /* Pods-PLAlphaThreshold_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-PLAlphaThreshold_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		B418F535F5974D291C84C41E866890D5 /* PLAlphaThreshold.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = PLAlphaThreshold.framework; path = PLAlphaThreshold.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B418F535F5974D291C84C41E866890D5 /* PLAlphaThreshold.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = PLAlphaThreshold.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B76663FCB04ABD902871A6C6A123DDFB /* PLAlphaThreshold.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = PLAlphaThreshold.debug.xcconfig; sourceTree = "<group>"; };
 		B824ADB02EC6B6B4A46CF354415D4400 /* Pods-PLAlphaThreshold_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-PLAlphaThreshold_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		BD4EF386080C3CF503F3B5695105408E /* PLAlphaThreshold-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "PLAlphaThreshold-umbrella.h"; sourceTree = "<group>"; };
 		D986646370CD2F7081B7902AA4A987D9 /* Pods-PLAlphaThreshold_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-PLAlphaThreshold_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		E19D5E0C7EA42ABA701265970D65977B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		E629E5CB4F0EFF7165C3DDCCCCAC39B1 /* Pods_PLAlphaThreshold_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_PLAlphaThreshold_Tests.framework; path = "Pods-PLAlphaThreshold_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E19D5E0C7EA42ABA701265970D65977B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		E629E5CB4F0EFF7165C3DDCCCCAC39B1 /* Pods_PLAlphaThreshold_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PLAlphaThreshold_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9270E9FD4E9A66998503F81DFC96963 /* Pods-PLAlphaThreshold_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-PLAlphaThreshold_Tests-dummy.m"; sourceTree = "<group>"; };
 		EC0C33F4B2C1DD8D0382EC807F8C85F2 /* Pods-PLAlphaThreshold_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-PLAlphaThreshold_Example.modulemap"; sourceTree = "<group>"; };
 		F45F85DE0F282A2F475BBA9B40E60FAC /* Pods-PLAlphaThreshold_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-PLAlphaThreshold_Example.release.xcconfig"; sourceTree = "<group>"; };
@@ -656,8 +656,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
